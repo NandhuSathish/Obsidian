@@ -47,7 +47,7 @@ POST /orders → Create a new order
 - `404 Not Found` → Resource not found
 - `500 Internal Server Error` → Server error
 
-### 5️⃣ **Consistent Naming Conventions**
+### 5️⃣ **Uniform Interface**
 - Use plural nouns for resources.
 ```
 
@@ -119,16 +119,8 @@ Accept: application/json
 
 ---
 
-## ✅ Common Interview Questions
+## ✅ [[ss|Common Interview Questions REST API | ]]
 
-1. What is REST and how is it different from SOAP?
-2. Why should REST APIs be stateless?
-3. How do you handle versioning in APIs?
-4. What are the common HTTP methods and when should you use them?
-5. How do you secure your REST APIs?
-6. Explain how filtering and pagination work.
-7. How do you handle errors and return appropriate status codes?
-8. What is HATEOAS and why is it important?
 
 ---
 

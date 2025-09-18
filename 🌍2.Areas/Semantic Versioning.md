@@ -3,12 +3,10 @@ tags:
   - nodejs
 ---
 
-
-```markdown
 # 📦 Semantic Versioning (SemVer) in Node.js
 
 Semantic versioning helps us manage package versions clearly using this format:
-```
+
 
 MAJOR.MINOR.PATCH
 
