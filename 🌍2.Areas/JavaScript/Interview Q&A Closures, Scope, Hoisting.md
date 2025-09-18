@@ -3,13 +3,10 @@ tags:
   - interview
   - javascript
 ---
+
 # JavaScript Interview: Closures, Scope, and Hoisting
 
-#### Refferance videos
 
--   [Namaste JavaScript Episode 1 - 12](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
--   [Lydia Hallie](https://www.youtube.com/@theavocoder)
--   [40 Days Of JavaScript](https://www.youtube.com/watch?v=t8QXF85YovE&list=PLIJrr73KDmRw2Fwwjt6cPC_tk5vcSICCu)
 
 ## Conversation 1: Understanding Closures
 

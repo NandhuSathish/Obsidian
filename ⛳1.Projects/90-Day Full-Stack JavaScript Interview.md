@@ -13,8 +13,8 @@ tags:
 
 **Week 1 (Days 1-5)**
 
--   [x] **Day 1**  - Study: [[Closures, Scope, Hoisting]] | Practice: 3-4 Easy LeetCode problems 
--   [ ] **Day 2** - Study: Prototypes, this keyword, Call/Apply/Bind | Practice: 3-4 Easy problems
+-   [x] **Day 1**  - Study: [[Closures, Scope, and Hoisting]] | Practice: 3-4 Easy LeetCode problems 
+-   [ ] **Day 2** - Study: [[Prototypes, this keyword, Call/Apply/Bind]] | Practice: 3-4 Easy problems
 -   [ ] **Day 3** - Study: Promises, Async/Await | Practice: 3-4 Easy problems
 -   [ ] **Day 4** - Study: Event Loop, Callbacks, Microtasks | Practice: 3-4 Easy problems
 -   [ ] **Day 5** - Study: ES6+ features (Destructuring, Spread, Rest) | Practice: 3-4 Easy problems
